@@ -1,0 +1,4 @@
+notes/
+.playwright-mcp/
+node_modules/
+*.log
